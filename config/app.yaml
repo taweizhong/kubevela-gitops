@@ -8,4 +8,4 @@ spec:
     - name: my-app
       type: webservice
       properties:
-        image: {"$imagepolicy": "default:image-gitops"}
+        image: nginx # {"$imagepolicy": "default:image-gitops"}
