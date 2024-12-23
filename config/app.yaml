@@ -8,4 +8,4 @@ spec:
     - name: my-app
       type: webservice
       properties:
-        image: docker.io/taweizhong235/nginx-test:master-abc123-555555 # {"$imagepolicy": "prod:image-gitops"}
+        image: docker.io/taweizhong235/nginx-test:master-abc123-666666 # {"$imagepolicy": "prod:image-gitops"}
